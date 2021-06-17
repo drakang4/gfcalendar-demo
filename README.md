@@ -2,7 +2,7 @@
 
 ![demo.gif](https://github.com/drakang4/gfcalendar-demo/blob/master/demo.gif?raw=true)
 
-GFCalendar is a web app that collects all GFriend's(여자친구) schedules and categorizes contents such as youtube videos or tweets into each schedule.
+GFCalendar is a web app that collects GFriend's(여자친구) schedules info and categorizes contents like youtube videos or tweets into each schedule.
 
 Unfortunately, this service is offline now.
 
